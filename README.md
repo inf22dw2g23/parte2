@@ -15,6 +15,16 @@ _O repositório está organizado da seguite maneira:_
 * [Documento MYSQL](src/api/openapi.yaml) para criação da Base de Dados.
 * [Documento Docker-compose](Queries_base_de_dados.sql)para puxar as imagens dos repositórios DockerHub e montar a aplicação.
 
+
+## Galeria 
+
+| ![1](doc_P2/1.png)           | ![2](doc_P2/2.png)  |
+| ---------------------------- | ----------- |
+| ![3](doc_P2/3.png)           | ![4](doc_P2/4.png)  |
+| ---------------------------- | ----------- |
+| ![5](doc_P2/5.png)           | ![6](doc_P2/6.png)  |
+
+
 ## Tecnologias Utilizadas
 
 _As tecnologias usadas neste projeto, foram as seguites:_
