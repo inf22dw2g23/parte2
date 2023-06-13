@@ -42,4 +42,13 @@ const gitHubMe = (req, res) => {
       });
 };
 
-module.exports = { login, logout, protected, dashboard, authGitHub, authCallback, me, gitHubMe };
+module.exports = { 
+  login, 
+  logout, 
+  protected, 
+  dashboard, 
+  authGitHub, 
+  authCallback, 
+  me, 
+  gitHubMe 
+};
