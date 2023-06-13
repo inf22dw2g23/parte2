@@ -20,7 +20,7 @@ _O repositório está organizado da seguite maneira:_
 
 | ![1](doc_P2/1.png)           | ![2](doc_P2/6.png)  |
 | ---------------------------- | ----------- |
-| ![3](doc_P2/5.png)           |
+| ![3](doc_P2/3.png)           |
 
 
 ## Tecnologias Utilizadas
